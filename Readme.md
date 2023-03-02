@@ -7,8 +7,11 @@ Here I used opecv and face-recognition to identify some artists on a video.
 ### Required libraries
 
 > import cv2
+
 > import face_recognition
+
 > import os
+
 > import numpy as np
 
 Note : To install face-recognition library, you must install dlib at first.
